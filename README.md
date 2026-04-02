@@ -57,8 +57,7 @@ git clone https://github.com/seu-usuario/seu-repositorio.git
 2. Instale as dependências:
 
 ```bash
-pip install deep-translator gTTS
-```
+pip install -r requirements.txt```
 
 3. Execute o notebook no Google Colab ou Jupyter
 
