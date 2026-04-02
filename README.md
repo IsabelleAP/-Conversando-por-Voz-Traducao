@@ -46,25 +46,6 @@ O fluxo do sistema segue as etapas abaixo:
 
 ---
 
-## ▶️ Como Executar
-
-1. Clone o repositório:
-
-```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-```
-
-2. Instale as dependências:
-
-```bash
-pip install -r requirements.txt```
-
-3. Execute o notebook no Google Colab ou Jupyter
-
-4. Fale algo no microfone e acompanhe a tradução em áudio 🎧
-
----
-
 ## 🔄 Exemplo de Uso
 
 * Entrada: “Olá, tudo bem?”
@@ -82,3 +63,22 @@ pip install -r requirements.txt```
 * O sistema requer conexão com a internet para tradução
 * A qualidade da transcrição depende da clareza do áudio
 * Pequenos delays podem ocorrer devido ao processamento
+
+---
+
+## ▶️ Como Executar
+
+1. Clone o repositório:
+
+```bash
+git clone https://github.com/seu-usuario/seu-repositorio.git
+```
+
+2. Instale as dependências:
+
+```bash
+pip install -r requirements.txt```
+
+3. Execute o notebook no Google Colab ou Jupyter
+
+4. Fale algo no microfone e acompanhe a tradução em áudio 🎧
