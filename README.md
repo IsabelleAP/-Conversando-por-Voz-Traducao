@@ -79,6 +79,8 @@ git clone https://github.com/seu-usuario/seu-repositorio.git
 ```bash
 pip install -r requirements.txt```
 
-3. Execute o notebook no Google Colab ou Jupyter
+```
 
+3. Execute o notebook no Google Colab ou Jupyter
+```
 4. Fale algo no microfone e acompanhe a tradução em áudio 🎧
